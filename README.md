@@ -3,7 +3,7 @@ I'm Ecem!
 
 Contact me !
 
-<a href="linkedin.com/in/ecem-naz-görüşük/" target="_blank" rel="nofollow"><img alt="Ecem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="linkedin.com/in/ecem-naz-görüşük-2107861a1/" target="_blank" rel="nofollow"><img alt="Ecem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:ecemnazgorusuk@gmail.com" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
  
  ## Technologies & Tools 
