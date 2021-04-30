@@ -1,9 +1,6 @@
 ### Hi there 👋
 I'm Ecem!
 
-<!--
-**EcemNazGorusuk/EcemNazGorusuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Contact me !
 
 <a href="linkedin.com/in/ecem-naz-görüşük-2107861a1/" target="_blank" rel="nofollow"><img alt="Ecem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
