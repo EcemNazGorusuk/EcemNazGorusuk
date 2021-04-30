@@ -4,7 +4,7 @@ I'm Ecem!
 Contact me !
 
 <a href="linkedin.com/in/ecem-naz-görüşük-2107861a1/" target="_blank" rel="nofollow"><img alt="Ecem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:ecemnazgorusuk@gmail.com" target="_blank" rel="nofollow"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+ <a href="mailto:ecemnazgorusuk@gmail.com" target="_blank" rel="nofollow"><img alt="Outlook" src="https://https://scioinfotech.com/wp-content/uploads/2018/09/blockchian-1-1017x500.png/></a>
  
  ## Technologies & Tools 
 
