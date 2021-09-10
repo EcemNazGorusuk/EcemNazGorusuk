@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Ecem!
-
+I'm <strong>Front-end developer.</strong>
 Contact me !
 
 <a href="https://www.linkedin.com/in/ecem-naz-g%C3%B6r%C3%BC%C5%9F%C3%BCk-2107861a1/" target="_blank" rel="nofollow"><img alt="Ecem's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
