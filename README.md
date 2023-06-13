@@ -13,7 +13,6 @@ Contact me !
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
 <img alt="React" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white"></img>
 <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
-<img alt="Dart" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white%22"></img>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></img>
 <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white"></img>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
