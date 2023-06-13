@@ -14,3 +14,5 @@ Contact me !
 <img alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img alt="React" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white"></img>
 <img alt="Dart" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white%22"></img>
+<img alt="React Native" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white"></img>
+
