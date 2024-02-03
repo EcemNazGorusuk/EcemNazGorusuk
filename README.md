@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Ecem!
-I'm <strong>Mobile Developer.</strong>
+I'm <strong>Frontend Developer.</strong>
 Contact me !
 
 
