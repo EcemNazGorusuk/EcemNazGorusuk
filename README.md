@@ -18,3 +18,5 @@ Contact me !
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwind css&logoColor=white"></img>
+
+<img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></img>
