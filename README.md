@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Ecem!
-I'm <strong>Fullstack Developer.</strong>
+I'm <strong>Software Developer.</strong>
 Contact me !
 
 
