@@ -8,13 +8,13 @@ Contact me !
  <a href="mailto:ecemnazgorusuk@gmail.com" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
  ## Technologies & Tools 
-
-
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-<img alt="jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8"></img>
-<img alt="postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16"></img>
+<ul>
+ <li>![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)</li>
+ <li>![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)</li>
+ <li>![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)</li>
+ <li><img alt="jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8"></img></li>
+ <li><img alt="postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16"></img></li>
+</ul>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></img>
