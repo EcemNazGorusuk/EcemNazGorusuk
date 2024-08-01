@@ -15,20 +15,20 @@ Contact me !
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8">
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16">
 </div>
-<ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
-  <li style="margin-right: 10px;"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></li>
-  <li style="margin-right: 10px;"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></li>
-  <li style="margin-right: 10px;"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></li>
-  <li style="margin-right: 10px;"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white"></li>
-  <li style="margin-right: 10px;"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwind css&logoColor=white"></li>
-  <li><img alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></li>
-</ul>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwind css&logoColor=white">
+  <img alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</div>
 
