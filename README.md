@@ -8,7 +8,7 @@ Contact me !
  <a href="mailto:ecemnazgorusuk@gmail.com" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
  ## Technologies & Tools 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 14px;">
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img alt="selenide" src="https://img.shields.io/badge/Selenide-0D66A5?style=for-the-badge&logo=selenide&logoColor=white">
