@@ -8,12 +8,12 @@ Contact me !
  <a href="mailto:ecemnazgorusuk@gmail.com" target="_blank" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
  ## Technologies & Tools 
-<ul style="display: flex; list-style: none; padding: 0; margin: 0;">
+<ul style="display: flex; flex-wrap: wrap; list-style: none; padding: 0; margin: 0;">
   <li style="margin-right: 10px;"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></li>
   <li style="margin-right: 10px;"><img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></li>
   <li style="margin-right: 10px;"><img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"></li>
   <li style="margin-right: 10px;"><img alt="Jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8"></li>
-  <li><img alt="Postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16"></li>
+  <li style="margin-right: 10px;"><img alt="Postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16"></li>
 </ul>
 
 <ul style="display: flex; flex-wrap: wrap; list-style-type: none; padding: 0;">
