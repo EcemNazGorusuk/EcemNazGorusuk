@@ -14,11 +14,12 @@ Contact me !
   <img alt="Selenide" src="https://img.shields.io/badge/Selenide-0D66A5?style=for-the-badge&logo=selenide&logoColor=white">
   <img alt="Chakram" src="https://img.shields.io/badge/Chakram-0A9A9A?style=for-the-badge&logo=chakram&logoColor=white">
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
+  <img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0056D2?style=for-the-badge&logo=trello&logoColor=white">
   <img alt="TestRail" src="https://img.shields.io/badge/TestRail-7D6F9C?style=for-the-badge&logo=testrail&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16">
-   <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
