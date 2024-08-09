@@ -10,7 +10,7 @@ Contact me !
  ## Technologies & Tools 
 <div style="display: flex; flex-wrap: nowrap; gap: 5px; overflow-x: auto;">
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+ <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23FF0000?style=for-the-badge&logo=cypress&logoColor=058a5e">
   <img alt="Selenide" src="https://img.shields.io/badge/Selenide-0D66A5?style=for-the-badge&logo=selenide&logoColor=white">
   <img alt="Chakram" src="https://img.shields.io/badge/Chakram-0A9A9A?style=for-the-badge&logo=chakram&logoColor=white">
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
