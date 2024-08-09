@@ -19,8 +19,8 @@ Contact me !
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0056D2?style=for-the-badge&logo=trello&logoColor=white">
   <img alt="TestRail" src="https://img.shields.io/badge/TestRail-7D6F9C?style=for-the-badge&logo=testrail&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=C82E16">
- <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-
+  <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-%23181717?style=for-the-badge&logo=gitlab&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
