@@ -14,8 +14,7 @@ Contact me !
   <img alt="Selenide" src="https://img.shields.io/badge/Selenide-0D66A5?style=for-the-badge&logo=selenide&logoColor=white">
   <img alt="Chakram" src="https://img.shields.io/badge/Chakram-0A9A9A?style=for-the-badge&logo=chakram&logoColor=white">
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
- <img alt="Locust" src="https://img.shields.io/badge/locust-performance%20test-%43B02A?style=for-the-badge&logo=locust&logoColor=white">
-
+  <img alt="Locust" src="https://img.shields.io/badge/locust-performance%20test-%43B02A?style=for-the-badge&logo=locust&logoColor=white">
   <img alt="JMeter" src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=4038C8">
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0056D2?style=for-the-badge&logo=trello&logoColor=white">
